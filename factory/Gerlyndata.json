@@ -1,0 +1,9 @@
+{
+	"name": "Gerlyndata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "469812c1-2373-4595-9a23-263524a2ad90",
+		"tenantId": "032115c7-35fe-4637-b2c3-d0a42906ba7b"
+	}
+}
